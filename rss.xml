@@ -4,15 +4,8 @@
         <description><![CDATA[Atlantiko Inspirations]]></description>
         <link>https://thegrid.ai/atlantiko-inspirations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 23:21:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko-inspirations/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Frozen zabaglione recipe]]></title>
-            <description><![CDATA[<article><h1>Frozen zabaglione recipe</h1><p>Some people don't have a big kitchen, or a lot of kitchen equipment. I think I have everything that's available, and at some point, may start an equipment rental business to drum up some extra cash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6d63a22a53f62e61afc300dadc95ffddd2fa225.jpg"></article>]]></description>
-            <link>http://www.davidlebovitz.com/2016/06/frozen-zabaglione-recipe-sabayon-frozen-dessert-ice-cream/</link>
-            <guid isPermaLink="false">5f44a3fe-8721-45fc-85e1-eba6601da00d</guid>
-            <pubDate>Sun, 19 Jun 2016 23:20:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Baccalá Stuffed Courgette Flowers Recipe - Great British Chefs]]></title>
             <description><![CDATA[<article><h1>Baccalá Stuffed Courgette Flowers Recipe - Great British Chefs</h1><p>Cut the softened cod into small pieces and add to a large pan or casserole with the bay leaf and 1 clove of garlic. Cover with the milk and water and bring everything to the boil, simmering for 2 hours Meanwhile, place 25ml of the sunflower oil in a small pan with the remaining garlic clove.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b210435cef367d6740d74e30601ade5f1778b27.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.seriouseats.com/recipes/2016/03/crispy-candied-pistachios-recipe.html</link>
             <guid isPermaLink="false">56650704-1744-46f7-a101-c393eff6d791</guid>
             <pubDate>Sun, 19 Jun 2016 23:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beef and blue cheese puff pastry pizza]]></title>
+            <description><![CDATA[<article><h1>Beef and blue cheese puff pastry pizza</h1><p>saw this on tele today.... amazingly puffy</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6216a5a5ffdc1bb624c465d0b44f1aae/noop.jpg?input=http%3A%2F%2Fichef.bbci.co.uk%2Ffood%2Fic%2Ffood_16x9_448%2Frecipes%2Fbeef_and_blue_cheese_89652_16x9.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/food/recipes/beef_and_blue_cheese_89652</link>
+            <guid isPermaLink="false">9417a89d-18b2-4a82-b50f-5be29a1e0b4b</guid>
+            <pubDate>Sun, 19 Jun 2016 23:20:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
