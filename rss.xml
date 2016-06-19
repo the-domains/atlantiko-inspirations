@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Atlantiko Inspirations]]></title>
+        <description><![CDATA[Atlantiko Inspirations]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Jun 2016 23:15:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspirations ]]></title>
+            <description><![CDATA[<article><h1>Inspirations </h1><p>Another real winner this year for the LaBritannique and Atlantiko team, a flourless almond ricotta and lemon cake...divine gluten free magicc...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e2955c-7e0f-43e9-9e06-dd1602b0567f.png"></article>]]></description>
+            <link>undefinedinspirations/index.html</link>
+            <guid isPermaLink="false">10b353d5-ef03-44d0-8b25-7e5699666079</guid>
+            <pubDate>Sun, 19 Jun 2016 23:15:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
